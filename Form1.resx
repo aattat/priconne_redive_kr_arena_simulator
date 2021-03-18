@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>1. 방덱 입력 및 공덱 입력에서 5명의 캐릭터 입력
+ - 방덱 입력 및 공덱 입력 옆의 텍스트박스에 입력해주세요. 
+ - 번호, 이름, 약어 중 아무거나 입력하고 입력 버튼을 클릭해주세요. 또는 엔터를 누르셔도 됩니다.
+ - 5명을 한꺼번에 입력 가능: 띄어쓰기로 구분
+  ex) 푸 쿠 노 타 마 = 미야코 쿠우카 노조미 타마키 마호
+  ex) 1 2 3 4 5 = 히요리 유이 레이 미소기 마츠리
+ - 5명을 현재 선택된 캐릭터에 추가하면 임시 선택 완료입니다
+
+2. 편성 저장 클릭
+ - 현재 선택된 캐릭터에 5명을 채우고 편성 저장을 클릭해주세요
+  cf) 5명을 모두 채우지 않으면 에러 메세지가 뜸
+ - 아래의 방덱, 공덱 정보로 데이터가 넘어가면 성공입니다
+
+3-1. 캐릭터 정보 확인 및 변경
+ - 기본 설정에서 추가적으로 변경이 필요한 경우 고려해주세요
+ - 방덱, 공덱 정보의 열을 더블클릭하거나, 열 선택 후 캐릭터 정보 확인 or 변경 버튼을 누르면 캐릭터에 대한 정보가 나옵니다.
+ - 성급, 레벨, 랭크, 장비 상태, 전용장비 상태 등 다양한 정보를 변경하고, 적용을 눌러 정확한 스탯을 보실 수 있습니다. 
+
+3-2. 캐릭터 기본 설정 변경법
+ - 방덱, 공덱 구성 옆의 설정 열기 버튼을 누르면 txt파일이 열립니다. 시뮬레이터 설치 폴더의 txt파일을 여셔도 됩니다.
+ - 이름,등급(성),레벨,랭크,장비 수,전용장비(장착시 1, 아닐시 0),전용장비 레벨: 순서에 맞게 변경해보세요
+ - txt파일의 정보를 변경한 후 편성 저장을 하시면 그에 맞게 정보가 변합니다. 3-1을 참조하여 확인해보세요. 
+
+4. 시뮬레이션 시작
+ - 모든 설정이 완료되었으면 횟수를 직접 입력하거나 화살표로 늘리고 시뮬레이션 시작 버튼을 눌러주세요
+ - 1회 반복에 약 3~5초의 시간이 걸립니다.
+ - 시뮬레이션이 끝나면 승률이 아래에 표시됩니다.
+ - 중간에 멈추고 싶으시다면 시뮬레이션 중간 정지 버튼을 마구 눌러주세요.. 어떻게든 멈추긴 할겁니다.
+
+5. 내역보기
+ - 횟수를 1로 하시고 시뮬레이션 시작버튼을 누르면, 시뮬레이션이 끝난 후 내역 보기를 클릭하여 행동 내역을 볼 수 있습니다.
+ - 정확하게는 1회 반복시 설치 폴더에 temp.txt가 저장됩니다. 이 파일을 직접 열어서 보셔도 됩니다.
+ - 파일은 횟수 1로 시뮬레이션할 때마다 덮어써지니 주의하세요 </value>
+  </data>
+</root>
