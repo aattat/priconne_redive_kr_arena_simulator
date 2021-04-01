@@ -323,773 +323,973 @@ namespace WindowsFormsApp1
             System.Windows.Forms.ListViewItem listViewItem59 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "59",
-            "네네카",
-            "네"}, -1);
+            "이노리",
+            ""}, -1);
             System.Windows.Forms.ListViewItem listViewItem60 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "60",
-            "크리스티나",
-            "크, 크리스"}, -1);
+            "라비리스타",
+            ""}, -1);
             System.Windows.Forms.ListViewItem listViewItem61 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "61",
-            "수페코",
-            "숲"}, -1);
+            "네네카",
+            "네"}, -1);
             System.Windows.Forms.ListViewItem listViewItem62 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "62",
-            "수코로",
-            "숫"}, -1);
+            "크리스티나",
+            "크, 크리스"}, -1);
             System.Windows.Forms.ListViewItem listViewItem63 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "63",
-            "수즈메",
-            "숮"}, -1);
+            "수페코",
+            "숲"}, -1);
             System.Windows.Forms.ListViewItem listViewItem64 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "64",
-            "수캬루",
-            "술"}, -1);
+            "수코로",
+            "숫"}, -1);
             System.Windows.Forms.ListViewItem listViewItem65 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "65",
-            "수마키",
-            "숱"}, -1);
+            "수즈메",
+            "숮"}, -1);
             System.Windows.Forms.ListViewItem listViewItem66 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "66",
-            "수후유",
-            "숨"}, -1);
+            "수캬루",
+            "술"}, -1);
             System.Windows.Forms.ListViewItem listViewItem67 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "67",
-            "할노부",
-            "할"}, -1);
+            "수마키",
+            "숱"}, -1);
             System.Windows.Forms.ListViewItem listViewItem68 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "68",
-            "할푸딩",
-            "핲"}, -1);
+            "수후유",
+            "숨"}, -1);
             System.Windows.Forms.ListViewItem listViewItem69 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "69",
-            "할사키",
-            "핫"}, -1);
+            "할노부",
+            "할"}, -1);
             System.Windows.Forms.ListViewItem listViewItem70 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "70",
-            "성치카",
-            "킃"}, -1);
+            "할푸딩",
+            "핲"}, -1);
             System.Windows.Forms.ListViewItem listViewItem71 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "71",
-            "성루미",
-            "큼"}, -1);
+            "할사키",
+            "핫"}, -1);
             System.Windows.Forms.ListViewItem listViewItem72 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "72",
-            "성야네",
-            "킁"}, -1);
+            "성치카",
+            "킃"}, -1);
             System.Windows.Forms.ListViewItem listViewItem73 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "73",
-            "뉴요리",
-            "늏"}, -1);
+            "성루미",
+            "큼"}, -1);
             System.Windows.Forms.ListViewItem listViewItem74 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "74",
-            "뉴이",
-            "뉴"}, -1);
+            "성야네",
+            "킁"}, -1);
             System.Windows.Forms.ListViewItem listViewItem75 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "75",
-            "신레이",
-            "신"}, -1);
+            "뉴요리",
+            "늏"}, -1);
             System.Windows.Forms.ListViewItem listViewItem76 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "76",
-            "발리코",
-            "방"}, -1);
+            "뉴이",
+            "뉴"}, -1);
             System.Windows.Forms.ListViewItem listViewItem77 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "77",
-            "발즈루",
-            "발"}, -1);
+            "신레이",
+            "신"}, -1);
             System.Windows.Forms.ListViewItem listViewItem78 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "78",
-            "앤",
-            "앤"}, -1);
+            "발리코",
+            "방"}, -1);
             System.Windows.Forms.ListViewItem listViewItem79 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "79",
-            "루",
-            "루"}, -1);
+            "발즈루",
+            "발"}, -1);
             System.Windows.Forms.ListViewItem listViewItem80 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "80",
-            "글레어",
-            "글"}, -1);
+            "앤",
+            "앤"}, -1);
             System.Windows.Forms.ListViewItem listViewItem81 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "81",
-            "오우카",
-            "옼"}, -1);
+            "루",
+            "루"}, -1);
             System.Windows.Forms.ListViewItem listViewItem82 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "82",
-            "오니논",
-            "닌"}, -1);
+            "글레어",
+            "글"}, -1);
             System.Windows.Forms.ListViewItem listViewItem83 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "83",
-            "렘",
-            "렘"}, -1);
+            "오우카",
+            "옼"}, -1);
             System.Windows.Forms.ListViewItem listViewItem84 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "84",
-            "람",
-            "람"}, -1);
+            "오니논",
+            "닌"}, -1);
             System.Windows.Forms.ListViewItem listViewItem85 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "85",
-            "에밀리아",
-            "엠"}, -1);
+            "렘",
+            "렘"}, -1);
             System.Windows.Forms.ListViewItem listViewItem86 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "86",
-            "수즈나",
-            "순"}, -1);
+            "람",
+            "람"}, -1);
             System.Windows.Forms.ListViewItem listViewItem87 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "87",
-            "수이오",
-            "숭"}, -1);
+            "에밀리아",
+            "엠"}, -1);
             System.Windows.Forms.ListViewItem listViewItem88 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "88",
-            "수사렌",
-            "수"}, -1);
+            "수즈나",
+            "순"}, -1);
             System.Windows.Forms.ListViewItem listViewItem89 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "89",
-            "수코토",
-            "숰"}, -1);
+            "수이오",
+            "숭"}, -1);
             System.Windows.Forms.ListViewItem listViewItem90 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "90",
-            "수오리",
-            "캇"}, -1);
+            "수사렌",
+            "수"}, -1);
             System.Windows.Forms.ListViewItem listViewItem91 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "91",
-            "수마호",
-            "숳"}, -1);
+            "수코토",
+            "숰"}, -1);
             System.Windows.Forms.ListViewItem listViewItem92 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "92",
-            "편오이",
-            "편"}, -1);
+            "수오리",
+            "캇"}, -1);
             System.Windows.Forms.ListViewItem listViewItem93 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "93",
-            "클로에",
-            "클"}, -1);
+            "수마호",
+            "숳"}, -1);
             System.Windows.Forms.ListViewItem listViewItem94 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "94",
-            "할쿄카",
-            "핰"}, -1);
+            "편오이",
+            "편"}, -1);
             System.Windows.Forms.ListViewItem listViewItem95 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "95",
-            "할소기",
-            "학"}, -1);
+            "클로에",
+            "클"}, -1);
             System.Windows.Forms.ListViewItem listViewItem96 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "96",
-            "할미미",
-            "함"}, -1);
+            "치에루",
+            ""}, -1);
             System.Windows.Forms.ListViewItem listViewItem97 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "97",
-            "루나",
-            "룬"}, -1);
+            "유니",
+            ""}, -1);
             System.Windows.Forms.ListViewItem listViewItem98 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "98",
-            "성리스",
-            "킄"}, -1);
+            "할쿄카",
+            "핰"}, -1);
             System.Windows.Forms.ListViewItem listViewItem99 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "99",
-            "성조미",
-            "큰"}, -1);
+            "할소기",
+            "학"}, -1);
             System.Windows.Forms.ListViewItem listViewItem100 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "100",
-            "성리야",
-            "잌"}, -1);
+            "할미미",
+            "함"}, -1);
             System.Windows.Forms.ListViewItem listViewItem101 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "101",
-            "뉴코로",
-            "늌, 늇, 춍"}, -1);
+            "루나",
+            "룬"}, -1);
             System.Windows.Forms.ListViewItem listViewItem102 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "102",
-            "뉴캬루",
-            "냐, 냐루"}, -1);
+            "성리스",
+            "킄"}, -1);
             System.Windows.Forms.ListViewItem listViewItem103 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "103",
-            "뉴즈메",
-            "늊"}, -1);
+            "성조미",
+            "큰"}, -1);
             System.Windows.Forms.ListViewItem listViewItem104 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "104",
-            "마스미",
-            "맛"}, -1);
+            "성리야",
+            "잌"}, -1);
             System.Windows.Forms.ListViewItem listViewItem105 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "105",
-            "마오리",
-            "망"}, -1);
+            "뉴코로",
+            "늌, 늇, 춍"}, -1);
             System.Windows.Forms.ListViewItem listViewItem106 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "106",
+            "뉴캬루",
+            "냐, 냐루"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem107 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "107",
+            "뉴즈메",
+            "늊"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem108 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "108",
+            "마스미",
+            "맛"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem109 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "109",
+            "마오리",
+            "망"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem110 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "110",
+            "우즈키",
+            "우"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem111 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "111",
+            "시부린",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem112 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "112",
+            "미오",
+            "혼, 혼다"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem113 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "113",
+            "레린",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem114 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "114",
+            "레히루",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem115 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "115",
+            "앨리노",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem116 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "116",
+            "앨유미",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem117 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "117",
+            "수루카",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem118 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "118",
+            "수안나",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem119 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "119",
+            "수나카",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem120 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "120",
+            "수츠네",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem121 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "121",
+            "수사토",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem122 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "122",
+            "수쥰",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem123 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "123",
+            "엔카리",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem124 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "124",
+            "프유이",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem125 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "125",
             "프페코",
             "픞"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem107 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem126 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "126",
+            "프코로",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem01 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "1",
             "히요리",
             "히"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem108 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem02 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "2",
             "유이",
             "융"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem109 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem03 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "3",
             "레이",
             "레"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem110 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem04 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "4",
             "미소기",
             "믹"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem111 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem05 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "5",
             "마츠리",
             "맟"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem112 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem06 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "6",
             "아카리",
             "알"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem113 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem07 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "7",
             "미야코",
             "푸, 푸딩"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem114 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem08 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "8",
             "유키",
             "윸"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem115 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem09 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "9",
             "안나",
             "안"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem116 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem010 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "10",
             "마호",
             "마"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem117 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem011 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "11",
             "리노",
             "리"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem118 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem012 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "12",
             "하츠네",
             "하"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem119 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem013 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "13",
             "나나카",
             "나"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem120 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem014 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "14",
             "카스미",
             "카"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem121 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem015 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "15",
             "미사토",
             "밑"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem122 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem016 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "16",
             "스즈나",
             "스"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem123 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem017 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "17",
             "카오리",
             "칼"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem124 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem018 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "18",
             "이오",
             "잉"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem125 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem019 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "19",
             "미미",
             "밈"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem126 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem020 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "20",
             "쿠루미",
             "쿨"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem127 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem021 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "21",
             "요리",
             "요"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem128 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem022 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "22",
             "아야네",
             "앙"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem129 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem023 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "23",
             "스즈메",
             "슺"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem130 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem024 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "24",
             "린",
             "린"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem131 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem025 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "25",
             "에리코",
             "에"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem132 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem026 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "26",
             "사렌",
             "사"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem133 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem027 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "27",
             "노조미",
             "노"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem134 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem028 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "28",
             "니논",
             "니"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem135 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem029 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "29",
             "시노부",
             "십"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem136 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem030 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "30",
             "아키노",
             "앜"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem137 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem031 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "31",
             "마히루",
             "맣"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem138 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem032 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "32",
             "유카리",
             "유"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem139 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem033 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "33",
             "쿄우카",
             "쿄"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem140 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem034 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "34",
             "토모",
             "토"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem141 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem035 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "35",
             "시오리",
             "싱"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem142 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem036 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "36",
             "아오이",
             "찐"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem143 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem037 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "37",
             "치카",
             "치"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem144 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem038 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "38",
             "마코토",
             "맠"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem145 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem039 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "39",
             "이리야",
             "이"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem146 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem040 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "40",
             "쿠우카",
             "쿠"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem147 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem041 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "41",
             "타마키",
             "타"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem148 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem042 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "42",
             "쥰",
             "쥰"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem149 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem043 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "43",
             "미후유",
             "밓"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem150 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem044 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "44",
             "시즈루",
             "시"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem151 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem045 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "45",
             "미사키",
             "밋"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem152 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem046 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "46",
             "미츠키",
             "미"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem153 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem047 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "47",
             "리마",
             "림"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem154 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem048 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "48",
             "모니카",
             "모"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem155 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem049 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "49",
             "츠무기",
             "츠"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem156 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem050 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "50",
             "아유미",
             "아"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem157 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem051 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "51",
             "루카",
             "뤀"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem158 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem052 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "52",
             "지타",
             "지"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem159 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem053 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "53",
             "페코린느",
             "페, 페코"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem160 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem054 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "54",
             "콧코로",
             "콧"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem161 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem055 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "55",
             "캬루",
             "캬"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem162 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem056 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "56",
             "무이미",
             "무"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem163 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem057 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "57",
             "아리사",
             "앗"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem164 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem058 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "58",
             "카야",
             "캉"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem165 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem059 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "59",
-            "네네카",
-            "네"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem166 = new System.Windows.Forms.ListViewItem(new string[] {
+            "이노리",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem060 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "60",
-            "크리스티나",
-            "크, 크리스"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem167 = new System.Windows.Forms.ListViewItem(new string[] {
+            "라비리스타",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem061 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "61",
-            "수페코",
-            "숲"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem168 = new System.Windows.Forms.ListViewItem(new string[] {
+            "네네카",
+            "네"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem062 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "62",
-            "수코로",
-            "숫"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem169 = new System.Windows.Forms.ListViewItem(new string[] {
+            "크리스티나",
+            "크, 크리스"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem063 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "63",
-            "수즈메",
-            "숮"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem170 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수페코",
+            "숲"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem064 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "64",
-            "수캬루",
-            "술"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem171 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수코로",
+            "숫"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem065 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "65",
-            "수마키",
-            "숱"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem172 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수즈메",
+            "숮"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem066 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "66",
-            "수후유",
-            "숨"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem173 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수캬루",
+            "술"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem067 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "67",
-            "할노부",
-            "할"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem174 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수마키",
+            "숱"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem068 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "68",
-            "할푸딩",
-            "핲"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem175 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수후유",
+            "숨"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem069 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "69",
-            "할사키",
-            "핫"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem176 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할노부",
+            "할"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem070 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "70",
-            "성치카",
-            "킃"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem177 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할푸딩",
+            "핲"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem071 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "71",
-            "성루미",
-            "큼"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem178 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할사키",
+            "핫"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem072 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "72",
-            "성야네",
-            "킁"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem179 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성치카",
+            "킃"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem073 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "73",
-            "뉴요리",
-            "늏"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem180 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성루미",
+            "큼"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem074 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "74",
-            "뉴이",
-            "뉴"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem181 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성야네",
+            "킁"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem075 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "75",
-            "신레이",
-            "신"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem182 = new System.Windows.Forms.ListViewItem(new string[] {
+            "뉴요리",
+            "늏"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem076 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "76",
-            "발리코",
-            "방"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem183 = new System.Windows.Forms.ListViewItem(new string[] {
+            "뉴이",
+            "뉴"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem077 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "77",
-            "발즈루",
-            "발"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem184 = new System.Windows.Forms.ListViewItem(new string[] {
+            "신레이",
+            "신"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem078 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "78",
-            "앤",
-            "앤"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem185 = new System.Windows.Forms.ListViewItem(new string[] {
+            "발리코",
+            "방"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem079 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "79",
-            "루",
-            "루"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem186 = new System.Windows.Forms.ListViewItem(new string[] {
+            "발즈루",
+            "발"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem080 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "80",
-            "글레어",
-            "글"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem187 = new System.Windows.Forms.ListViewItem(new string[] {
+            "앤",
+            "앤"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem081 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "81",
-            "오우카",
-            "옼"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem188 = new System.Windows.Forms.ListViewItem(new string[] {
+            "루",
+            "루"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem082 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "82",
-            "오니논",
-            "닌"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem189 = new System.Windows.Forms.ListViewItem(new string[] {
+            "글레어",
+            "글"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem083 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "83",
-            "렘",
-            "렘"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem190 = new System.Windows.Forms.ListViewItem(new string[] {
+            "오우카",
+            "옼"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem084 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "84",
-            "람",
-            "람"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem191 = new System.Windows.Forms.ListViewItem(new string[] {
+            "오니논",
+            "닌"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem085 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "85",
-            "에밀리아",
-            "엠"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem192 = new System.Windows.Forms.ListViewItem(new string[] {
+            "렘",
+            "렘"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem086 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "86",
-            "수즈나",
-            "순"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem193 = new System.Windows.Forms.ListViewItem(new string[] {
+            "람",
+            "람"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem087 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "87",
-            "수이오",
-            "숭"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem194 = new System.Windows.Forms.ListViewItem(new string[] {
+            "에밀리아",
+            "엠"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem088 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "88",
-            "수사렌",
-            "수"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem195 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수즈나",
+            "순"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem089 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "89",
-            "수코토",
-            "숰"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem196 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수이오",
+            "숭"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem090 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "90",
-            "수오리",
-            "캇"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem197 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수사렌",
+            "수"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem091 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "91",
-            "수마호",
-            "숳"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem198 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수코토",
+            "숰"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem092 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "92",
-            "편오이",
-            "편"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem199 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수오리",
+            "캇"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem093 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "93",
-            "클로에",
-            "클"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem200 = new System.Windows.Forms.ListViewItem(new string[] {
+            "수마호",
+            "숳"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem094 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "94",
-            "할쿄카",
-            "핰"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem201 = new System.Windows.Forms.ListViewItem(new string[] {
+            "편오이",
+            "편"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem095 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "95",
-            "할소기",
-            "학"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem202 = new System.Windows.Forms.ListViewItem(new string[] {
+            "클로에",
+            "클"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem096 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "96",
-            "할미미",
-            "함"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem203 = new System.Windows.Forms.ListViewItem(new string[] {
+            "치에루",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem097 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "97",
-            "루나",
-            "룬"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem204 = new System.Windows.Forms.ListViewItem(new string[] {
+            "유니",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem098 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "98",
-            "성리스",
-            "킄"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem205 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할쿄카",
+            "핰"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem099 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "99",
-            "성조미",
-            "큰"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem206 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할소기",
+            "학"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0100 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "100",
-            "성리야",
-            "잌"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem207 = new System.Windows.Forms.ListViewItem(new string[] {
+            "할미미",
+            "함"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0101 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "101",
-            "뉴코로",
-            "늌, 늇, 춍"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem208 = new System.Windows.Forms.ListViewItem(new string[] {
+            "루나",
+            "룬"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0102 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "102",
-            "뉴캬루",
-            "냐, 냐루"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem209 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성리스",
+            "킄"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0103 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "103",
-            "뉴즈메",
-            "늊"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem210 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성조미",
+            "큰"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0104 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "104",
-            "마스미",
-            "맛"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem211 = new System.Windows.Forms.ListViewItem(new string[] {
+            "성리야",
+            "잌"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0105 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "105",
-            "마오리",
-            "망"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem212 = new System.Windows.Forms.ListViewItem(new string[] {
+            "뉴코로",
+            "늌, 늇, 춍"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0106 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "106",
+            "뉴캬루",
+            "냐, 냐루"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0107 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "107",
+            "뉴즈메",
+            "늊"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0108 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "108",
+            "마스미",
+            "맛"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0109 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "109",
+            "마오리",
+            "망"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0110 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "110",
+            "우즈키",
+            "우"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0111 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "111",
+            "시부린",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0112 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "112",
+            "미오",
+            "혼, 혼다"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0113 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "113",
+            "레린",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0114 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "114",
+            "레히루",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0115 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "115",
+            "앨리노",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0116 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "116",
+            "앨유미",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0117 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "117",
+            "수루카",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0118 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "118",
+            "수안나",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0119 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "119",
+            "수나카",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0120 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "120",
+            "수츠네",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0121 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "121",
+            "수사토",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0122 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "122",
+            "수쥰",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0123 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "123",
+            "엔카리",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0124 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "124",
+            "프유이",
+            ""}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0125 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "125",
             "프페코",
             "픞"}, -1);
+            System.Windows.Forms.ListViewItem listViewItem0126 = new System.Windows.Forms.ListViewItem(new string[] {
+            "",
+            "126",
+            "프코로",
+            ""}, -1);
             System.Windows.Forms.ListViewItem listViewItem213 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "1",
@@ -1813,7 +2013,27 @@ namespace WindowsFormsApp1
             listViewItem103,
             listViewItem104,
             listViewItem105,
-            listViewItem106});
+            listViewItem106,
+            listViewItem107,
+            listViewItem108,
+            listViewItem109,
+            listViewItem110,
+            listViewItem111,
+            listViewItem112,
+            listViewItem113,
+            listViewItem114,
+            listViewItem115,
+            listViewItem116,
+            listViewItem117,
+            listViewItem118,
+            listViewItem119,
+            listViewItem120,
+            listViewItem121,
+            listViewItem122,
+            listViewItem123,
+            listViewItem124,
+            listViewItem125,
+            listViewItem126});
             this.deflist.Location = new System.Drawing.Point(21, 54);
             this.deflist.MultiSelect = false;
             this.deflist.Name = "deflist";
@@ -1856,112 +2076,132 @@ namespace WindowsFormsApp1
             this.offlist.FullRowSelect = true;
             this.offlist.HideSelection = false;
             this.offlist.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem107,
-            listViewItem108,
-            listViewItem109,
-            listViewItem110,
-            listViewItem111,
-            listViewItem112,
-            listViewItem113,
-            listViewItem114,
-            listViewItem115,
-            listViewItem116,
-            listViewItem117,
-            listViewItem118,
-            listViewItem119,
-            listViewItem120,
-            listViewItem121,
-            listViewItem122,
-            listViewItem123,
-            listViewItem124,
-            listViewItem125,
-            listViewItem126,
-            listViewItem127,
-            listViewItem128,
-            listViewItem129,
-            listViewItem130,
-            listViewItem131,
-            listViewItem132,
-            listViewItem133,
-            listViewItem134,
-            listViewItem135,
-            listViewItem136,
-            listViewItem137,
-            listViewItem138,
-            listViewItem139,
-            listViewItem140,
-            listViewItem141,
-            listViewItem142,
-            listViewItem143,
-            listViewItem144,
-            listViewItem145,
-            listViewItem146,
-            listViewItem147,
-            listViewItem148,
-            listViewItem149,
-            listViewItem150,
-            listViewItem151,
-            listViewItem152,
-            listViewItem153,
-            listViewItem154,
-            listViewItem155,
-            listViewItem156,
-            listViewItem157,
-            listViewItem158,
-            listViewItem159,
-            listViewItem160,
-            listViewItem161,
-            listViewItem162,
-            listViewItem163,
-            listViewItem164,
-            listViewItem165,
-            listViewItem166,
-            listViewItem167,
-            listViewItem168,
-            listViewItem169,
-            listViewItem170,
-            listViewItem171,
-            listViewItem172,
-            listViewItem173,
-            listViewItem174,
-            listViewItem175,
-            listViewItem176,
-            listViewItem177,
-            listViewItem178,
-            listViewItem179,
-            listViewItem180,
-            listViewItem181,
-            listViewItem182,
-            listViewItem183,
-            listViewItem184,
-            listViewItem185,
-            listViewItem186,
-            listViewItem187,
-            listViewItem188,
-            listViewItem189,
-            listViewItem190,
-            listViewItem191,
-            listViewItem192,
-            listViewItem193,
-            listViewItem194,
-            listViewItem195,
-            listViewItem196,
-            listViewItem197,
-            listViewItem198,
-            listViewItem199,
-            listViewItem200,
-            listViewItem201,
-            listViewItem202,
-            listViewItem203,
-            listViewItem204,
-            listViewItem205,
-            listViewItem206,
-            listViewItem207,
-            listViewItem208,
-            listViewItem209,
-            listViewItem210,
-            listViewItem211,
-            listViewItem212});
+            listViewItem01,
+            listViewItem02,
+            listViewItem03,
+            listViewItem04,
+            listViewItem05,
+            listViewItem06,
+            listViewItem07,
+            listViewItem08,
+            listViewItem09,
+            listViewItem010,
+            listViewItem011,
+            listViewItem012,
+            listViewItem013,
+            listViewItem014,
+            listViewItem015,
+            listViewItem016,
+            listViewItem017,
+            listViewItem018,
+            listViewItem019,
+            listViewItem020,
+            listViewItem021,
+            listViewItem022,
+            listViewItem023,
+            listViewItem024,
+            listViewItem025,
+            listViewItem026,
+            listViewItem027,
+            listViewItem028,
+            listViewItem029,
+            listViewItem030,
+            listViewItem031,
+            listViewItem032,
+            listViewItem033,
+            listViewItem034,
+            listViewItem035,
+            listViewItem036,
+            listViewItem037,
+            listViewItem038,
+            listViewItem039,
+            listViewItem040,
+            listViewItem041,
+            listViewItem042,
+            listViewItem043,
+            listViewItem044,
+            listViewItem045,
+            listViewItem046,
+            listViewItem047,
+            listViewItem048,
+            listViewItem049,
+            listViewItem050,
+            listViewItem051,
+            listViewItem052,
+            listViewItem053,
+            listViewItem054,
+            listViewItem055,
+            listViewItem056,
+            listViewItem057,
+            listViewItem058,
+            listViewItem059,
+            listViewItem060,
+            listViewItem061,
+            listViewItem062,
+            listViewItem063,
+            listViewItem064,
+            listViewItem065,
+            listViewItem066,
+            listViewItem067,
+            listViewItem068,
+            listViewItem069,
+            listViewItem070,
+            listViewItem071,
+            listViewItem072,
+            listViewItem073,
+            listViewItem074,
+            listViewItem075,
+            listViewItem076,
+            listViewItem077,
+            listViewItem078,
+            listViewItem079,
+            listViewItem080,
+            listViewItem081,
+            listViewItem082,
+            listViewItem083,
+            listViewItem084,
+            listViewItem085,
+            listViewItem086,
+            listViewItem087,
+            listViewItem088,
+            listViewItem089,
+            listViewItem090,
+            listViewItem091,
+            listViewItem092,
+            listViewItem093,
+            listViewItem094,
+            listViewItem095,
+            listViewItem096,
+            listViewItem097,
+            listViewItem098,
+            listViewItem099,
+            listViewItem0100,
+            listViewItem0101,
+            listViewItem0102,
+            listViewItem0103,
+            listViewItem0104,
+            listViewItem0105,
+            listViewItem0106,
+            listViewItem0107,
+            listViewItem0108,
+            listViewItem0109,
+            listViewItem0110,
+            listViewItem0111,
+            listViewItem0112,
+            listViewItem0113,
+            listViewItem0114,
+            listViewItem0115,
+            listViewItem0116,
+            listViewItem0117,
+            listViewItem0118,
+            listViewItem0119,
+            listViewItem0120,
+            listViewItem0121,
+            listViewItem0122,
+            listViewItem0123,
+            listViewItem0124,
+            listViewItem0125,
+            listViewItem0126});
             this.offlist.Location = new System.Drawing.Point(371, 54);
             this.offlist.MultiSelect = false;
             this.offlist.Name = "offlist";
@@ -2249,8 +2489,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.deflist);
             this.Controls.Add(this.offlist);
             this.Name = "MainForm";
-            this.Text = "프리코네 아레나 시뮬레이터(2021-03-18)";
-            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.Text = "프리코네 아레나 시뮬레이터(2021-04-01)";
             ((System.ComponentModel.ISupportInitialize)(this.simulcount)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

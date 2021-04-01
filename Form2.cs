@@ -431,7 +431,10 @@ namespace WindowsFormsApp1
             {
                 //변경점 적용
                 {
-                    if (MainForm.select_defence[MainForm._index] == "리노" || MainForm.select_defence[MainForm._index] == "페코린느" || MainForm.select_defence[MainForm._index] == "콧코로" || MainForm.select_defence[MainForm._index] == "캬루" || MainForm.select_defence[MainForm._index] == "리마" || MainForm.select_defence[MainForm._index] == "이오" || MainForm.select_defence[MainForm._index] == "유카리" || MainForm.select_defence[MainForm._index] == "마호")//
+                    if (MainForm.select_defence[MainForm._index] == "리노" || MainForm.select_defence[MainForm._index] == "페코린느" || MainForm.select_defence[MainForm._index] == "콧코로" ||
+                        MainForm.select_defence[MainForm._index] == "캬루" || MainForm.select_defence[MainForm._index] == "리마" || MainForm.select_defence[MainForm._index] == "이오" ||
+                        MainForm.select_defence[MainForm._index] == "유카리" || MainForm.select_defence[MainForm._index] == "마호" || MainForm.select_defence[MainForm._index] == "히요리" ||
+                        MainForm.select_defence[MainForm._index] == "유이" || MainForm.select_defence[MainForm._index] == "레이")//
                     {
                         try
                         {
@@ -850,7 +853,10 @@ namespace WindowsFormsApp1
             {
                 //변경점 적용
                 {
-                    if (MainForm.select_offence[MainForm._index - 15] == "리노" || MainForm.select_offence[MainForm._index - 15] == "페코린느" || MainForm.select_offence[MainForm._index - 15] == "콧코로" || MainForm.select_offence[MainForm._index - 15] == "캬루" || MainForm.select_offence[MainForm._index - 15] == "리마" || MainForm.select_offence[MainForm._index - 15] == "이오" || MainForm.select_offence[MainForm._index - 15] == "유카리" || MainForm.select_offence[MainForm._index - 15] == "마호")//
+                    if (MainForm.select_offence[MainForm._index - 15] == "리노" || MainForm.select_offence[MainForm._index - 15] == "페코린느" || MainForm.select_offence[MainForm._index - 15] == "콧코로" || 
+                        MainForm.select_offence[MainForm._index - 15] == "캬루" || MainForm.select_offence[MainForm._index - 15] == "리마" || MainForm.select_offence[MainForm._index - 15] == "이오" || 
+                        MainForm.select_offence[MainForm._index - 15] == "유카리" || MainForm.select_offence[MainForm._index - 15] == "마호" || MainForm.select_offence[MainForm._index - 15] == "히요리" ||
+                        MainForm.select_offence[MainForm._index - 15] == "유이" || MainForm.select_offence[MainForm._index - 15] == "레이")//
                     {
                         try
                         {
