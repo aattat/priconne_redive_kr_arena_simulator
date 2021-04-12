@@ -584,7 +584,7 @@ namespace WindowsFormsApp1
             "",
             "111",
             "시부린",
-            ""}, -1);
+            "실"}, -1);
             System.Windows.Forms.ListViewItem listViewItem112 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "112",
@@ -1214,7 +1214,7 @@ namespace WindowsFormsApp1
             "",
             "111",
             "시부린",
-            ""}, -1);
+            "실"}, -1);
             System.Windows.Forms.ListViewItem listViewItem0112 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "112",
