@@ -938,7 +938,7 @@ namespace WindowsFormsApp1
             // label32
             // 
             this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(30, 348);
+            this.label32.Location = new System.Drawing.Point(30, 343);
             this.label32.Name = "label32";
             this.label32.Size = new System.Drawing.Size(61, 12);
             this.label32.TabIndex = 48;
@@ -947,7 +947,7 @@ namespace WindowsFormsApp1
             // uniqcheck
             // 
             this.uniqcheck.AutoSize = true;
-            this.uniqcheck.Location = new System.Drawing.Point(272, 347);
+            this.uniqcheck.Location = new System.Drawing.Point(271, 363);
             this.uniqcheck.Name = "uniqcheck";
             this.uniqcheck.Size = new System.Drawing.Size(15, 14);
             this.uniqcheck.TabIndex = 50;
@@ -957,7 +957,7 @@ namespace WindowsFormsApp1
             // label38
             // 
             this.label38.AutoSize = true;
-            this.label38.Location = new System.Drawing.Point(237, 348);
+            this.label38.Location = new System.Drawing.Point(236, 364);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(29, 12);
             this.label38.TabIndex = 49;
@@ -965,7 +965,7 @@ namespace WindowsFormsApp1
             // 
             // uniqlevel
             // 
-            this.uniqlevel.Location = new System.Drawing.Point(327, 344);
+            this.uniqlevel.Location = new System.Drawing.Point(326, 360);
             this.uniqlevel.MaxLength = 3;
             this.uniqlevel.Name = "uniqlevel";
             this.uniqlevel.RightToLeft = System.Windows.Forms.RightToLeft.No;
@@ -977,7 +977,7 @@ namespace WindowsFormsApp1
             // label46
             // 
             this.label46.AutoSize = true;
-            this.label46.Location = new System.Drawing.Point(296, 348);
+            this.label46.Location = new System.Drawing.Point(295, 364);
             this.label46.Name = "label46";
             this.label46.Size = new System.Drawing.Size(29, 12);
             this.label46.TabIndex = 51;
@@ -986,9 +986,9 @@ namespace WindowsFormsApp1
             // uniqequip
             // 
             this.uniqequip.BackColor = System.Drawing.Color.Transparent;
-            this.uniqequip.Location = new System.Drawing.Point(97, 344);
+            this.uniqequip.Location = new System.Drawing.Point(97, 339);
             this.uniqequip.Name = "uniqequip";
-            this.uniqequip.Size = new System.Drawing.Size(134, 20);
+            this.uniqequip.Size = new System.Drawing.Size(263, 20);
             this.uniqequip.TabIndex = 53;
             this.uniqequip.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
