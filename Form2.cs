@@ -477,13 +477,13 @@ namespace WindowsFormsApp1
                     
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 157)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 160)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 157 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
@@ -899,13 +899,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 157)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 160)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 157 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
