@@ -2489,7 +2489,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.deflist);
             this.Controls.Add(this.offlist);
             this.Name = "MainForm";
-            this.Text = "프리코네 아레나 시뮬레이터(2021-05-17)";
+            this.Text = "프리코네 아레나 시뮬레이터(2021-05-31)";
             ((System.ComponentModel.ISupportInitialize)(this.simulcount)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
