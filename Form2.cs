@@ -478,13 +478,13 @@ namespace WindowsFormsApp1
                     
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 160)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 163)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 163 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
@@ -496,13 +496,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 16)
+                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 17)
                         {
                             Level_variable.Rank[MainForm._index] = Convert.ToInt32(this.Rank.Text);
                         }
                         else
                         {
-                            MessageBox.Show("랭크에 1과 16 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("랭크에 1과 17 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Rank.Text = Convert.ToString(Level_variable.Rank[MainForm._index]);
                         }
                     }
@@ -529,13 +529,13 @@ namespace WindowsFormsApp1
                     Level_variable.equip[MainForm._index] = this.uniqcheck.Checked;
                     try
                     {
-                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 160)
+                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 170)
                         {
                             Level_variable.UE_Lv[MainForm._index] = Convert.ToInt32(this.uniqlevel.Text);
                         }
                         else
                         {
-                            MessageBox.Show("전용장비 레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("전용장비 레벨에 1과 170 사이의 숫자를 입력해주세요", "범위 오류");
                             this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                         }
                     }
@@ -901,13 +901,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 160)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 163)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 163 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
@@ -919,13 +919,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 16)
+                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 17)
                         {
                             Level_variable.Rank[MainForm._index] = Convert.ToInt32(this.Rank.Text);
                         }
                         else
                         {
-                            MessageBox.Show("랭크에 1과 16 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("랭크에 1과 17 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Rank.Text = Convert.ToString(Level_variable.Rank[MainForm._index]);
                         }
                     }
@@ -952,13 +952,13 @@ namespace WindowsFormsApp1
                     Level_variable.equip[MainForm._index] = this.uniqcheck.Checked;
                     try
                     {
-                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 160)
+                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 170)
                         {
                             Level_variable.UE_Lv[MainForm._index] = Convert.ToInt32(this.uniqlevel.Text);
                         }
                         else
                         {
-                            MessageBox.Show("전용장비 레벨에 1과 160 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("전용장비 레벨에 1과 170 사이의 숫자를 입력해주세요", "범위 오류");
                             this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                         }
                     }
