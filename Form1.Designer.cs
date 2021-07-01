@@ -609,7 +609,7 @@ namespace WindowsFormsApp1
             "",
             "116",
             "앨유미",
-            ""}, -1);
+            "앵"}, -1);
             System.Windows.Forms.ListViewItem listViewItem117 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "117",
@@ -659,7 +659,7 @@ namespace WindowsFormsApp1
             "",
             "126",
             "프코로",
-            ""}, -1);
+            "픜, 픗, 충, 납"}, -1);
             System.Windows.Forms.ListViewItem listViewItem127 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "1",
@@ -1239,7 +1239,7 @@ namespace WindowsFormsApp1
             "",
             "116",
             "앨유미",
-            ""}, -1);
+            "앵"}, -1);
             System.Windows.Forms.ListViewItem listViewItem243 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "117",
@@ -1289,7 +1289,7 @@ namespace WindowsFormsApp1
             "",
             "126",
             "프코로",
-            ""}, -1);
+            "픜, 픗, 충, 납"}, -1);
             System.Windows.Forms.ListViewItem listViewItem253 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "1",
@@ -2489,7 +2489,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.deflist);
             this.Controls.Add(this.offlist);
             this.Name = "MainForm";
-            this.Text = "프리코네 아레나 시뮬레이터(2021-06-15)";
+            this.Text = "프리코네 아레나 시뮬레이터(2021-07-01)";
             ((System.ComponentModel.ISupportInitialize)(this.simulcount)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
