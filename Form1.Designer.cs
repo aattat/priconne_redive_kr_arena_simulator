@@ -324,7 +324,7 @@ namespace WindowsFormsApp1
             "",
             "59",
             "이노리",
-            ""}, -1);
+            "인"}, -1);
             System.Windows.Forms.ListViewItem listViewItem60 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "60",
@@ -954,7 +954,7 @@ namespace WindowsFormsApp1
             "",
             "59",
             "이노리",
-            ""}, -1);
+            "인"}, -1);
             System.Windows.Forms.ListViewItem listViewItem186 = new System.Windows.Forms.ListViewItem(new string[] {
             "",
             "60",
@@ -2489,7 +2489,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.deflist);
             this.Controls.Add(this.offlist);
             this.Name = "MainForm";
-            this.Text = "프리코네 아레나 시뮬레이터(2021-07-04)";
+            this.Text = "프리코네 아레나 시뮬레이터(2021-07-19)";
             ((System.ComponentModel.ISupportInitialize)(this.simulcount)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
