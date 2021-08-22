@@ -50,5 +50,67 @@ namespace WindowsFormsApp1
             }
             sr.Close();
         }
+
+        private void search_Click(object sender, EventArgs e)
+        {
+            string input = searchbox.Text;
+            int inputcharacter = searchbox.TextLength;
+            string output = battle.Text;
+            int outputcharacter = battle.TextLength;
+
+            int cursor = battle.SelectionStart;
+            if(cursor != outputcharacter)
+            {
+                cursor += 1;
+            }
+
+            if (output.IndexOf(input, cursor) >= 0)
+            {
+                battle.Focus();
+                battle.Select(output.IndexOf(input, cursor), inputcharacter);
+                battle.ScrollToCaret();
+            }
+            else if (output.IndexOf(input, 0, cursor) >= 0)
+            {
+                battle.Focus();
+                battle.Select(output.IndexOf(input, 0, cursor), inputcharacter);
+                battle.ScrollToCaret();
+            }
+            else if (output.IndexOf(input) >= 0) 
+            {
+                battle.Focus();
+                battle.Select(output.IndexOf(input), inputcharacter);
+                battle.ScrollToCaret();
+            }
+            else
+            {
+                string a = "\"" + input + "\"" + "(을)를 찾을 수 없습니다.";
+                MessageBox.Show(a, "오류");
+            }
+            //string linetext = battle.Lines[0];
+            //linetext.IndexOf(input);
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                search_Click(sender, e);
+
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
+        }
+
+        private void battle_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                search_Click(sender, e);
+
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+            }
+        }
     }
 }

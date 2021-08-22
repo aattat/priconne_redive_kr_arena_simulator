@@ -43,6 +43,8 @@ namespace WindowsFormsApp1
             this.label11 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.battle = new System.Windows.Forms.TextBox();
+            this.search = new System.Windows.Forms.Button();
+            this.searchbox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label6
@@ -106,6 +108,7 @@ namespace WindowsFormsApp1
             // 
             // b1
             // 
+            this.b1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.b1.BackColor = System.Drawing.Color.Transparent;
             this.b1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.b1.Location = new System.Drawing.Point(436, 30);
@@ -116,6 +119,7 @@ namespace WindowsFormsApp1
             // 
             // b2
             // 
+            this.b2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.b2.BackColor = System.Drawing.Color.Transparent;
             this.b2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.b2.Location = new System.Drawing.Point(512, 30);
@@ -126,6 +130,7 @@ namespace WindowsFormsApp1
             // 
             // b3
             // 
+            this.b3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.b3.BackColor = System.Drawing.Color.Transparent;
             this.b3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.b3.Location = new System.Drawing.Point(588, 30);
@@ -136,6 +141,7 @@ namespace WindowsFormsApp1
             // 
             // b4
             // 
+            this.b4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.b4.BackColor = System.Drawing.Color.Transparent;
             this.b4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.b4.Location = new System.Drawing.Point(664, 30);
@@ -146,6 +152,7 @@ namespace WindowsFormsApp1
             // 
             // b5
             // 
+            this.b5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.b5.BackColor = System.Drawing.Color.Transparent;
             this.b5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.b5.Location = new System.Drawing.Point(740, 30);
@@ -156,6 +163,7 @@ namespace WindowsFormsApp1
             // 
             // label11
             // 
+            this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label11.Location = new System.Drawing.Point(436, 12);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(374, 12);
@@ -165,7 +173,9 @@ namespace WindowsFormsApp1
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(226, 55);
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.Location = new System.Drawing.Point(226, 94);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(374, 12);
             this.label1.TabIndex = 35;
@@ -174,22 +184,50 @@ namespace WindowsFormsApp1
             // 
             // battle
             // 
+            this.battle.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.battle.BackColor = System.Drawing.SystemColors.Window;
             this.battle.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.battle.Location = new System.Drawing.Point(12, 70);
+            this.battle.Location = new System.Drawing.Point(12, 109);
             this.battle.MaxLength = 0;
             this.battle.Multiline = true;
             this.battle.Name = "battle";
             this.battle.ReadOnly = true;
             this.battle.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.battle.Size = new System.Drawing.Size(800, 359);
+            this.battle.Size = new System.Drawing.Size(800, 380);
             this.battle.TabIndex = 36;
+            this.battle.KeyDown += new System.Windows.Forms.KeyEventHandler(this.battle_KeyDown);
+            // 
+            // search
+            // 
+            this.search.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.search.Location = new System.Drawing.Point(762, 59);
+            this.search.Name = "search";
+            this.search.Size = new System.Drawing.Size(50, 30);
+            this.search.TabIndex = 37;
+            this.search.Text = "검색";
+            this.search.UseVisualStyleBackColor = true;
+            this.search.Click += new System.EventHandler(this.search_Click);
+            // 
+            // searchbox
+            // 
+            this.searchbox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.searchbox.Location = new System.Drawing.Point(12, 63);
+            this.searchbox.Name = "searchbox";
+            this.searchbox.Size = new System.Drawing.Size(744, 21);
+            this.searchbox.TabIndex = 38;
+            this.searchbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.searchbox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
             // SubForm2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(824, 441);
+            this.ClientSize = new System.Drawing.Size(824, 501);
+            this.Controls.Add(this.searchbox);
+            this.Controls.Add(this.search);
             this.Controls.Add(this.battle);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.b5);
@@ -228,5 +266,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox battle;
+        private System.Windows.Forms.Button search;
+        private System.Windows.Forms.TextBox searchbox;
     }
 }
