@@ -435,7 +435,14 @@ namespace WindowsFormsApp1
                         MainForm.select_defence[MainForm._index] == "캬루" || MainForm.select_defence[MainForm._index] == "리마" || MainForm.select_defence[MainForm._index] == "이오" ||
                         MainForm.select_defence[MainForm._index] == "유카리" || MainForm.select_defence[MainForm._index] == "마호" || MainForm.select_defence[MainForm._index] == "히요리" ||
                         MainForm.select_defence[MainForm._index] == "유이" || MainForm.select_defence[MainForm._index] == "레이" || MainForm.select_defence[MainForm._index] == "하츠네" ||
-                        MainForm.select_defence[MainForm._index] == "타마키" || MainForm.select_defence[MainForm._index] == "미후유" || MainForm.select_defence[MainForm._index] == "시즈루")//
+                        MainForm.select_defence[MainForm._index] == "타마키" || MainForm.select_defence[MainForm._index] == "미후유" || MainForm.select_defence[MainForm._index] == "시즈루" ||
+                        MainForm.select_defence[MainForm._index] == "아야네" || MainForm.select_defence[MainForm._index] == "사렌" || MainForm.select_defence[MainForm._index] == "아키노" ||
+                        MainForm.select_defence[MainForm._index] == "니논" || MainForm.select_defence[MainForm._index] == "마히루" || MainForm.select_defence[MainForm._index] == "스즈나" ||
+                        MainForm.select_defence[MainForm._index] == "아카리" || MainForm.select_defence[MainForm._index] == "요리" || MainForm.select_defence[MainForm._index] == "미소기" ||
+                        MainForm.select_defence[MainForm._index] == "미미" || MainForm.select_defence[MainForm._index] == "쿄우카" || MainForm.select_defence[MainForm._index] == "노조미" ||
+                        MainForm.select_defence[MainForm._index] == "스즈메" || MainForm.select_defence[MainForm._index] == "쿠루미" || MainForm.select_defence[MainForm._index] == "카오리" ||
+                        MainForm.select_defence[MainForm._index] == "아오이" || MainForm.select_defence[MainForm._index] == "지타" || MainForm.select_defence[MainForm._index] == "나나카" ||
+                        MainForm.select_defence[MainForm._index] == "모니카" || MainForm.select_defence[MainForm._index] == "아리사")//
                     {
                         try
                         {
@@ -478,13 +485,13 @@ namespace WindowsFormsApp1
                     
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 169)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 217)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 169 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 217 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
@@ -496,13 +503,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 17)
+                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 23)
                         {
                             Level_variable.Rank[MainForm._index] = Convert.ToInt32(this.Rank.Text);
                         }
                         else
                         {
-                            MessageBox.Show("랭크에 1과 17 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("랭크에 1과 23 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Rank.Text = Convert.ToString(Level_variable.Rank[MainForm._index]);
                         }
                     }
@@ -529,19 +536,19 @@ namespace WindowsFormsApp1
                     Level_variable.equip[MainForm._index] = this.uniqcheck.Checked;
                     try
                     {
-                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 170)
+                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 220)
                         {
                             Level_variable.UE_Lv[MainForm._index] = Convert.ToInt32(this.uniqlevel.Text);
                         }
                         else
                         {
-                            MessageBox.Show("전용장비 레벨에 1과 170 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("전용장비 레벨에 1과 220 사이의 숫자를 입력해주세요", "범위 오류");
                             this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                         }
                     }
                     catch (Exception ex)
                     {
-                        MessageBox.Show("랭크에 숫자를 입력해주세요", "숫자 오류");
+                        MessageBox.Show("전용장비 레벨에 숫자를 입력해주세요", "숫자 오류");
                         this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                     }
                 }
@@ -552,6 +559,7 @@ namespace WindowsFormsApp1
                     MainForm.status_equip(MainForm.select_defence_eng[MainForm._index], Level_variable.Rank[MainForm._index], Level_variable.equip1[MainForm._index], Level_variable.equip2[MainForm._index], Level_variable.equip3[MainForm._index], Level_variable.equip4[MainForm._index], Level_variable.equip5[MainForm._index], Level_variable.equip6[MainForm._index], Level_variable.rf1[MainForm._index], Level_variable.rf2[MainForm._index], Level_variable.rf3[MainForm._index], Level_variable.rf4[MainForm._index], Level_variable.rf5[MainForm._index], Level_variable.rf6[MainForm._index], MainForm._index);
                     MainForm.status_unique_equip(MainForm.select_defence_eng[MainForm._index], ref Level_variable.equip[MainForm._index], Level_variable.UE_Lv[MainForm._index], MainForm._index);
                     MainForm.status_destiny(MainForm.select_defence_eng[MainForm._index], MainForm._index);
+                    MainForm.status_rankbonus(MainForm.select_defence_eng[MainForm._index], Level_variable.Rank[MainForm._index], MainForm._index);
 
 
                     Level_variable.power[MainForm._index] = Stat_variable.HP[MainForm._index] * 0.1 + Stat_variable.PA[MainForm._index] * 1 + Stat_variable.MA[MainForm._index] * 1 + Stat_variable.PD[MainForm._index] * 4.5 + Stat_variable.MD[MainForm._index] * 4.5 + Stat_variable.PC[MainForm._index] * 0.5 +
@@ -858,7 +866,14 @@ namespace WindowsFormsApp1
                         MainForm.select_offence[MainForm._index - 15] == "캬루" || MainForm.select_offence[MainForm._index - 15] == "리마" || MainForm.select_offence[MainForm._index - 15] == "이오" || 
                         MainForm.select_offence[MainForm._index - 15] == "유카리" || MainForm.select_offence[MainForm._index - 15] == "마호" || MainForm.select_offence[MainForm._index - 15] == "히요리" ||
                         MainForm.select_offence[MainForm._index - 15] == "유이" || MainForm.select_offence[MainForm._index - 15] == "레이" || MainForm.select_offence[MainForm._index - 15] == "하츠네" ||
-                        MainForm.select_offence[MainForm._index - 15] == "타마키" || MainForm.select_offence[MainForm._index - 15] == "미후유" || MainForm.select_offence[MainForm._index - 15] == "시즈루")//
+                        MainForm.select_offence[MainForm._index - 15] == "타마키" || MainForm.select_offence[MainForm._index - 15] == "미후유" || MainForm.select_offence[MainForm._index - 15] == "시즈루" ||
+                        MainForm.select_offence[MainForm._index - 15] == "아야네" || MainForm.select_offence[MainForm._index - 15] == "사렌" || MainForm.select_offence[MainForm._index - 15] == "아키노" ||
+                        MainForm.select_offence[MainForm._index - 15] == "니논" || MainForm.select_offence[MainForm._index - 15] == "마히루" || MainForm.select_offence[MainForm._index - 15] == "스즈나" ||
+                        MainForm.select_offence[MainForm._index - 15] == "아카리" || MainForm.select_offence[MainForm._index - 15] == "요리" || MainForm.select_offence[MainForm._index - 15] == "미소기" ||
+                        MainForm.select_offence[MainForm._index - 15] == "미미" || MainForm.select_offence[MainForm._index - 15] == "쿄우카" || MainForm.select_offence[MainForm._index - 15] == "노조미" ||
+                        MainForm.select_offence[MainForm._index - 15] == "스즈메" || MainForm.select_offence[MainForm._index - 15] == "쿠루미" || MainForm.select_offence[MainForm._index - 15] == "카오리" ||
+                        MainForm.select_offence[MainForm._index - 15] == "아오이" || MainForm.select_offence[MainForm._index - 15] == "지타" || MainForm.select_offence[MainForm._index - 15] == "나나카" ||
+                        MainForm.select_offence[MainForm._index - 15] == "모니카" || MainForm.select_offence[MainForm._index - 15] == "아리사")//
                     {
                         try
                         {
@@ -901,13 +916,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 169)
+                        if (Convert.ToInt32(this.Level.Text) >= 1 && Convert.ToInt32(this.Level.Text) <= 217)
                         {
                             Level_variable.Lv[MainForm._index] = Convert.ToInt32(this.Level.Text);
                         }
                         else
                         {
-                            MessageBox.Show("레벨에 1과 169 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("레벨에 1과 217 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Level.Text = Convert.ToString(Level_variable.Lv[MainForm._index]);
                         }
                     }
@@ -919,13 +934,13 @@ namespace WindowsFormsApp1
 
                     try
                     {
-                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 17)
+                        if (Convert.ToInt32(this.Rank.Text) >= 1 && Convert.ToInt32(this.Rank.Text) <= 23)
                         {
                             Level_variable.Rank[MainForm._index] = Convert.ToInt32(this.Rank.Text);
                         }
                         else
                         {
-                            MessageBox.Show("랭크에 1과 17 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("랭크에 1과 23 사이의 숫자를 입력해주세요", "범위 오류");
                             this.Rank.Text = Convert.ToString(Level_variable.Rank[MainForm._index]);
                         }
                     }
@@ -952,19 +967,19 @@ namespace WindowsFormsApp1
                     Level_variable.equip[MainForm._index] = this.uniqcheck.Checked;
                     try
                     {
-                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 170)
+                        if (Convert.ToInt32(this.uniqlevel.Text) >= 1 && Convert.ToInt32(this.uniqlevel.Text) <= 220)
                         {
                             Level_variable.UE_Lv[MainForm._index] = Convert.ToInt32(this.uniqlevel.Text);
                         }
                         else
                         {
-                            MessageBox.Show("전용장비 레벨에 1과 170 사이의 숫자를 입력해주세요", "범위 오류");
+                            MessageBox.Show("전용장비 레벨에 1과 220 사이의 숫자를 입력해주세요", "범위 오류");
                             this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                         }
                     }
                     catch (Exception ex)
                     {
-                        MessageBox.Show("랭크에 숫자를 입력해주세요", "숫자 오류");
+                        MessageBox.Show("전용장비 레벨에 숫자를 입력해주세요", "숫자 오류");
                         this.uniqlevel.Text = Convert.ToString(Level_variable.UE_Lv[MainForm._index]);
                     }
                 }
@@ -975,6 +990,7 @@ namespace WindowsFormsApp1
                     MainForm.status_equip(MainForm.select_offence_eng[MainForm._index - 15], Level_variable.Rank[MainForm._index], Level_variable.equip1[MainForm._index], Level_variable.equip2[MainForm._index], Level_variable.equip3[MainForm._index], Level_variable.equip4[MainForm._index], Level_variable.equip5[MainForm._index], Level_variable.equip6[MainForm._index], Level_variable.rf1[MainForm._index], Level_variable.rf2[MainForm._index], Level_variable.rf3[MainForm._index], Level_variable.rf4[MainForm._index], Level_variable.rf5[MainForm._index], Level_variable.rf6[MainForm._index], MainForm._index);
                     MainForm.status_unique_equip(MainForm.select_offence_eng[MainForm._index - 15], ref Level_variable.equip[MainForm._index], Level_variable.UE_Lv[MainForm._index], MainForm._index);
                     MainForm.status_destiny(MainForm.select_offence_eng[MainForm._index - 15], MainForm._index);
+                    MainForm.status_rankbonus(MainForm.select_offence_eng[MainForm._index - 15], Level_variable.Rank[MainForm._index], MainForm._index);
 
 
                     Level_variable.power[MainForm._index] = Stat_variable.HP[MainForm._index] * 0.1 + Stat_variable.PA[MainForm._index] * 1 + Stat_variable.MA[MainForm._index] * 1 + Stat_variable.PD[MainForm._index] * 4.5 + Stat_variable.MD[MainForm._index] * 4.5 + Stat_variable.PC[MainForm._index] * 0.5 +

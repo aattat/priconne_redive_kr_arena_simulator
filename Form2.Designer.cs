@@ -1107,6 +1107,8 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.label1);
             this.Controls.Add(this.character);
             this.Controls.Add(this.rec1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "SubForm1";
             this.Text = "캐릭터 정보 변경";
             this.Load += new System.EventHandler(this.SubForm1_Load);

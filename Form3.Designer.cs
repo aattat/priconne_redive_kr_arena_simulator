@@ -242,6 +242,8 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.a1);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label6);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "SubForm2";
             this.Text = "전투 내역";
             this.Load += new System.EventHandler(this.SubForm2_Load);
